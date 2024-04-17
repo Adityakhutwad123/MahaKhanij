@@ -57,8 +57,8 @@ public void clerk_Login() throws Exception {
  //Enter Remark
  //scroll down till element not found
  Thread.sleep(10000);
- JavascriptExecutor js=(JavascriptExecutor) d;
- js.executeScript("window.ScrollBy(0,600)", "" );
+ JavascriptExecutor js=(JavascriptExecutor) d;sdfsdfsdfsdfsdfsd
+ js.executeScript("window.ScrollBy(0,600)", "" );sdsdfsdf
 
  //click on the approve/proceed button
  //d.findElement(By.xpath("/html/body/div[3]/div/main/div[2]/div[2]/div[1]/div/div/button[3]")).click();
